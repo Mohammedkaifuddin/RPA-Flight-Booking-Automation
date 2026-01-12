@@ -1,0 +1,6 @@
+{
+  "Name": "fight_Booking_Automation",
+  "ProjectType": "Process",
+  "Description": "Travel Buddy Robot ",
+  "MainFile": "Main.xaml"
+}
